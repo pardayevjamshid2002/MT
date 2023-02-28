@@ -974,8 +974,11 @@ nav{
     .contact-registration text          area{
         width: 500px;
     }
-
-
-
-
 }
+
+@media only screen and (max-width: 768px ){
+    nav{
+        width: 768px;
+    }
+}
+
